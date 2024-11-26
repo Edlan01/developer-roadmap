@@ -203,7 +203,7 @@ DevOps professionals or any member of the operations teams must understand how d
 
 ### Continuous learning
 
-A continuous learning and continuous improvement mindset is essential across all roles in software engineering, but its importance is amplified for a DevOps engineer. A DevOps engineer must continually learn about new technologies, tools, DevOps principles, and DevOps practices and implement the ones best suited to the project.
+A continuous learning and continuous improvement mindset is essential across all roles in software engineering, but its importance is amplified for a DevOps engineer. A DevOps engineer must continually learn about new technologies, tools, [DevOps principles](https://roadmap.sh/devops/principles), and [DevOps best practices](https://roadmap.sh/devops/principles) and implement the ones best suited to the project.
 
 You may not have the DevOps mindset, but that is okay. You can build this mindset as you learn and grow into the role. Let us look at some technical skills required to become a DevOps engineer.
 
