@@ -30,7 +30,7 @@ question:
 
     ## What skills are required for a Frontend developer?
 
-    The main skills required to become a frontend developer are HTML, CSS, and JavaScript. The rest are also important, but without those three basic ones, you can’t apply any of the others.
+    The main skills required to [become a frontend developer](https://roadmap.sh/frontend/how-to-become-frontend-developer) are HTML, CSS, and JavaScript. The rest are also important, but without those three basic ones, you can’t apply any of the others.
 
     The full list of [frontend developer skills](https://roadmap.sh/frontend/developer-skills) you should look into if you’re hoping to up your game is the following:
 
