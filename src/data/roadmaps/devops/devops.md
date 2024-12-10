@@ -24,15 +24,15 @@ dimensions:
   height: 2850
 schema:
   headline: 'DevOps Roadmap'
-  description: 'Learn to become a modern DevOps engineer by following the steps, skills, resources and guides listed in our community-driven roadmap.'
+  description: 'Learn what it takes to be a DevOps engineer by following the steps, skills, resources, and guides listed in our community-driven roadmap.'
   imageUrl: 'https://roadmap.sh/roadmaps/devops.png'
   datePublished: '2023-01-05'
   dateModified: '2023-06-10'
 relatedQuestions:
   - 'backend'
 seo:
-  title: 'DevOps Roadmap: Learn to become a DevOps Engineer or SRE'
-  description: 'Learn to become a modern DevOps engineer by following the steps, skills, resources and guides listed in our community-driven roadmap.'
+  title: 'DevOps Roadmap: What is a DevOps Engineer or SRE?'
+  description: 'Learn what it takes to be a DevOps engineer by following the steps, skills, resources, and guides listed in our community-driven roadmap.'
   keywords:
     - 'devops roadmap 2024'
     - 'sre roadmap 2024'
